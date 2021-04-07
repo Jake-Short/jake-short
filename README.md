@@ -11,7 +11,7 @@
 
 ### About me...
 
-I'm a 17 year old with a passion for web and mobile development. I mainly work with React and React frameworks for web development, and have used React Native to make mobile apps. I'm now venturing into native iOS development!
+I'm a 17 year old with a passion for web and mobile development. I mainly work with React for web development, and have used React Native to make mobile apps. I also develop native mobile applications for iOS  using Swift and SwiftUI!
 
 - 🔭 I’m currently working on making small iOS projects to help my native development skills.
 
